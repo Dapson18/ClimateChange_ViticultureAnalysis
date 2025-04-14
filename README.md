@@ -54,9 +54,6 @@ This project is licensed under the MIT License. See the LICENSE file for details
 ## Contributing
 Contributions are welcome! Please fork the repository and submit a pull request with your changes.
 
-## Acknowledgments
-Special thanks to all contributors and resources that supported this project.
-<<<<<<< HEAD
 =======
 # ClimateChange_ViticultureAnalysis
 Predicted future suitability of Vitis vinifera cultivation using machine learning and spatial analysis.
