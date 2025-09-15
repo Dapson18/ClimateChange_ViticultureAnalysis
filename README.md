@@ -1,6 +1,5 @@
 
 =======
->>>>>>> 244819392089cb41e2702f81c7963640809b5500
 # My R Project
 
 ## Description
@@ -56,7 +55,7 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 =======
 # ClimateChange_ViticultureAnalysis
 Predicted future suitability of Vitis vinifera cultivation using machine learning and spatial analysis.
->>>>>>> b70ef4a9b5c7412f10ca012d52993e1ac9453bce
+
 =======
 
 
