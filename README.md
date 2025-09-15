@@ -26,12 +26,12 @@ To run this project, ensure the following dependencies are installed:
 ## Installation
 1. Clone this repository:
    ```bash
-<<<<<<< HEAD
+
    git clone https://github.com/your-username/your-repo-name.git
 =======
    git clone https://github.com/Dapson18/ClimateChange_ViticultureAnalysis
 .git
->>>>>>> 244819392089cb41e2702f81c7963640809b5500
+
    ```
 2. Open the project in RStudio.
 3. Install the required packages:
@@ -59,4 +59,4 @@ Predicted future suitability of Vitis vinifera cultivation using machine learnin
 >>>>>>> b70ef4a9b5c7412f10ca012d52993e1ac9453bce
 =======
 
->>>>>>> 244819392089cb41e2702f81c7963640809b5500
+
